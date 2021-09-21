@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965932743874",
+    "project_id": "eman-fbaaa",
+    "storage_bucket": "eman-fbaaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965932743874:android:2ab52f57a0341307598f5b",
+        "android_client_info": {
+          "package_name": "com.example.eman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965932743874-f72l2i17ch56rva3jlnt8f6jmab7cc11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxAgPVKmHt_i_538VbJ5maoCpWL4WNsho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965932743874-f72l2i17ch56rva3jlnt8f6jmab7cc11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

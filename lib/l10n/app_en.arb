@@ -1,0 +1,56 @@
+{
+    "projects": "projects",
+    "data": "data",
+    "credentials": "Info",
+    "service":"service",
+    "qr": "QR",
+    "searchForProject": "search for project ",
+    "searchByName": "search by name  ",
+    "totalProjects": "total projects",
+    "mobileProjects" : "mobile development",
+    "webProjects" : "web development",
+    "consulting" : "consulting",
+    "companyInformation" : "Company Information",
+    "companyDescription" : "eMan a.s. is registered in Commercial Register kept by the Municipal Court in Prague, Section B, 25330.",
+    "companyNumber" : "Company number",
+     "taxNumber" : "Tax Number",
+     "dataBoxID" : "Data box ID",
+     "dunsNumber" : "D-U-N-S number",
+     "bankAccount" : "Bank Account",
+     "accountNumber" : "Account Number",
+     "iban" : "IBAN",
+     "swift" : "BIC(SWIFT)",
+     "stockMarket" : "eMan on the stock market",
+     "stockMarketDescription" : "eMan stocks are being sold on PX Start at Prague Stock Exchange.",
+     "certification" : "ISO Certifications",
+     "certificationDescription" : "eMan owns following certificates ISO 9001, ISO/IEC 27001 a ISO 14001.",
+     "emanAddress": "EMAN ADDRESS",
+     "emanProfileSentence": "you can check eMan company profile by visiting this",
+     "link" : "link",
+     "qr": "QR",
+     "sharingQrSentence" : "We are sharing our app with you",
+     "androidQrCode" : "Android (QR code)",
+     "iosQrCode" : "iOS (QR code)",
+     "client":"Client",
+     "project":"Project",
+     "segment":"Segment",
+     "financialVolume":"Financial volume",
+     "realization":"Realization",
+     "contactPerson":"Contact person",
+     "energy" : "energy",
+     "otomotive":"automotive",
+     "finance":"finance",
+     "ourServices":"our services",
+     "developmentOfMobileApps" :"development of mobile apps",
+     "developmentOfWebApps": "development of web apps",
+     "uiuxDesign":"UI/UX design",
+     "supportAndService":"support and service",
+     "outsourcingITSpecialists":"outsourcing IT specialists"
+     
+}
+
+
+
+
+
+   
